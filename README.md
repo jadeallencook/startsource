@@ -6,20 +6,20 @@ Developed by @jadeallencook & @claytonleonardcook
 
 ## Under The Hood
 
-(X) React
-( ) Router & Context
-(X) Webpack
-(X) TypeScript
-( ) Jest
-( ) Cypress
-( ) GitHub Pages
-( ) CI/CD Pipeline
-( ) Simple Grid
-( ) Tailwind CSS
-( ) Font Awesome
-( ) Storybook
-( ) Prismic
-( ) Firebase
+- (X) React
+- ( ) Router & Context
+- (X) Webpack
+- (X) TypeScript
+- ( ) Jest
+- ( ) Cypress
+- ( ) GitHub Pages
+- ( ) CI/CD Pipeline
+- ( ) Simple Grid
+- ( ) Tailwind CSS
+- ( ) Font Awesome
+- ( ) Storybook
+- ( ) Prismic
+- ( ) Firebase
 
 ## Getting Started
 
