@@ -12,10 +12,9 @@ Developed by @jadeallencook & @claytonleonardcook
 - ( ) Yup
 - ( ) Jest
 - ( ) Cypress
-- ( ) GitHub Pages
 - ( ) CI/CD Pipeline
 - ( ) Simple Grid
-- ( ) Tailwind CSS
+- (X) Tailwind CSS
 - ( ) Font Awesome
 - (X) Storybook
 - ( ) Prismic
