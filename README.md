@@ -17,7 +17,7 @@ Developed by @jadeallencook & @claytonleonardcook
 - ( ) Simple Grid
 - ( ) Tailwind CSS
 - ( ) Font Awesome
-- ( ) Storybook
+- (X) Storybook
 - ( ) Prismic
 - ( ) Firebase
 
