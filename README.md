@@ -6,10 +6,10 @@ Developed by @jadeallencook & @claytonleonardcook
 
 ## Under The Hood
 
+- (X) Next.js
 - (X) React
-- ( ) Router & Context
-- (X) Webpack
 - (X) TypeScript
+- ( ) Yup
 - ( ) Jest
 - ( ) Cypress
 - ( ) GitHub Pages
@@ -23,9 +23,7 @@ Developed by @jadeallencook & @claytonleonardcook
 
 ## Getting Started
 
-1. Create Firebase and Prismic accounts. 
 1. Clone this repo and `yarn` to install dependencies. 
-1. Update `.env.local` with your information. 
 
 ## Application Architecture
 
@@ -45,11 +43,13 @@ This is detailed overview of our development process.
 
 Here's a list of the technologies we're using and why we chose them. 
 
+### Next.js
+
 ### React
 
 ### Router & Context
 
-### Webpack
+### Yup
 
 ### TypeScript
 
